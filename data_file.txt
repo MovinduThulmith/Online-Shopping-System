@@ -1,0 +1,10 @@
+####################################
+Westminster Shopping Managing System
+####################################
+
+Category-Electronics-0973-Blender-6500.0-35-sisil-6
+Category-Clothing-187e-Frock-2000.0-100-yellow-Large
+Category-Clothing-452rgt-Shirt-1990.0-55-blue-Medium
+Category-Clothing-345-Socks-200.0-120-black-Small
+Category-Electronics-1245e-phone-145000.0-20-Apple-13
+Category-Electronics-123-refrigerator-75000.0-5-LG-24
